@@ -1,0 +1,16 @@
+Built on simple idea of 
+(1) clicking button to change background color, then escalated to 
+
+(2) generating random rgb and hex color code to change the bacground, 
+
+(3) copy the color codeds by clicking button
+
+(4) Auto generating color codes with a toggle Switch
+
+(5) When clicking on a color button or generating color, the code with respective background color will apear in a card in the right side of the screen. If the card is clicked, the bg would change and the code can be copied
+
+Future propects for the project: 
+
+1. Add a notepad where copied codes will appear
+2. system to save certain colors
+3. giving the fixed text gradient color so they dont seem invisible with certain bg
