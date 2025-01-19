@@ -78,5 +78,8 @@ body {
 #random-RGB{
     height: 200px;
     width: 400px;
-    
+    background-color: White;
+    font-size: 60px;
+    font-weight: 400;
+    border: 4px white;
 }
