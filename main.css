@@ -75,11 +75,12 @@ body {
     flex-direction: column;
     flex-wrap: wrap;
 }
-#random-RGB{
+#random-RGB {
     height: 200px;
     width: 400px;
-    background-color: White;
+    background-color: white;
     font-size: 60px;
-    font-weight: 400;
-    border: 4px white;
+    font-weight: bold; /* Changed from 400 to bold */
+    border: 4px solid white; /* Ensure the border style is solid */
 }
+
