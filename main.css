@@ -30,11 +30,11 @@ body {
     background-color: beige;
 }
 
-#random:hover {
+/* #random:hover {
     background-color: bisque;
     color: black;
     /* color: blue; */
-}
+} */
 
 .second{
     display: flex;
